@@ -1,7 +1,7 @@
 # Requirement_identification
 
 Ich habe hier ein Codebeispiel für meine Arbeit an meiner aktuellen Bachelorarbeit
-in Absprache mit meinem Betreuen mit angefügt.
+mit angefügt.
 
 -> Laden der Daten
 
